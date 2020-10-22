@@ -1,1 +1,5 @@
 an exploration of autoencoders and mutual information
+
+we start with a RBM and then proceed to an AE
+
+In the RBM, we will review gibbs sampling
