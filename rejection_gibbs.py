@@ -39,8 +39,7 @@ while (k<1001):
 
 
 
-plt.hist(x, weights=2*np.ones_like(x) / len(x),
-                           facecolor='green', alpha=0.75)
+plt.hist(x, normed=True,facecolor='green', alpha=0.75)
 
 
 plt.plot(x,(1/40)*(2*x +3))
