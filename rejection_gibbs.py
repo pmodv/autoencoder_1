@@ -49,12 +49,7 @@ print(count)
 
 # rejection sampling with marginals
 
-# rejection sampling example
-
-import numpy as np
-
-from matplotlib import pyplot as plt
-
+# rejection sampling example #2
 
 # f(x) = (2x+3y+2)
 
